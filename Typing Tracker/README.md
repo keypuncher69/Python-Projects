@@ -3,7 +3,7 @@ I created this project to improve my typing speed and track my progress. What th
 
 Basically, all you need to do is just run this program and the computer does everything else for you and shows you the progress of your typing speed averaged over 5 tries.
 
-I did create an executable version of the program, however it was too large to upload to GitHub.
+I did create an executable version of the program, however it was too large to upload to GitHub. All you need to do is run the typingtracker.py file.
 
 Skills utilized:
 * Python
